@@ -27,7 +27,7 @@ html{
 }
 .navbar.sticky{
     padding: 6px 0;
-    background: #0b65de;
+    background: #645CAA;
 }
 .navbar .max-width{
     display: flex;
@@ -36,7 +36,7 @@ html{
 }
 .navbar .logo a{
     font-size: 35px;
-    color: black;
+    color: crimson;
     font-weight: 600;
 }
 .navbar .logo span{
@@ -80,7 +80,7 @@ html{
     position: fixed;
     height: 40px;
     width: 42px;
-    background: rgb(18, 59, 147);
+    background: crimson;
     right: 30px;
     bottom: 10px;
     text-align: center;
@@ -106,7 +106,7 @@ html{
 .home{
     display: flex;
     /* background: url("photos/banner1.jpg") no-repeat center; */
-    background-color: #2f4c80;
+    background-color: #9a9ade;
     height: 100vh;
     color: azure;
     min-height: 500px;
@@ -137,7 +137,7 @@ html{
     margin: 10px 0;
 }
 .home .home-content .left .text-3 span{
-    color: azure;
+    color: crimson;
     font-weight: 600;
     font-size: 40px;
 }
@@ -214,7 +214,7 @@ section .title::after{
     bottom:-10px ;
     left: 50%;
     font-size: 14px;
-    color: #2f4c80;
+    color: crimson;
     padding: 5px;
     background: #fff ;
     transform: translateX(-50%);
@@ -243,31 +243,31 @@ section .title::after{
     margin-bottom: 10px;
 }
 .about .about-content .right .text span{
-    color: #2f4c80;
+    color: crimson;
 }
 .about .about-content .right p{
     text-align: justify;
 }
 .about .about-content .right a{
-    background: #2f4c80;
+    background: crimson;
     display: inline-block;
     color: azure;
     font-size: 15px;
     padding: 5px 15px;
     margin-top: 15px;
     border-radius: 10px;
-    border: 2px solid #2f4c80;
+    border: 2px solid crimson;
     transition: all 0.3s ease;
 }
 .about .about-content .right a:hover{
     background: none;
-    color: #2f4c80;
+    color: crimson;
     font-weight: 600;
 }
 
 /* services section styling */
 .services, .works{
-    background-color: #2f4c80;
+    background-color: #B1B2FF;
 }
 .services .title::after{
     content: "What I Know";
@@ -342,19 +342,19 @@ section .title::after{
     font-weight: 600;
 } */
 .skills .skills-content .right p{
-    background: #2f4c80;
+    background: crimson;
     display: inline-block;
     color: azure;
     font-size: 15px;
     padding: 5px 15px;
     margin-top: 15px;
     border-radius: 10px;
-    border: 2px solid #2f4c80;
+    border: 2px solid crimson;
     transition: all 0.3s ease;
 }
 .skills .skills-content .right p:hover{
     background: none;
-    color: #2f4c80;
+    color: crimson;
     font-weight: 600;
 }
 .skills .skills-content .right .tab-titles{
@@ -374,7 +374,7 @@ section .title::after{
     content: "";
     width: 0;
     height: 2px;
-    background: #2f4c80;
+    background: crimson;
     position:absolute;
     left: 0;
     bottom: -8px;
@@ -388,7 +388,7 @@ section .title::after{
     margin: 10px 0;
 }
 .tab-contents ul li span{
-    color: #2f4c80;
+    color: crimson;
     font-size: 14px;
 }
 .tab-contents{
@@ -466,7 +466,7 @@ section .title::after{
     width: 125px;
     object-fit: cover;
     border-radius: 50%;
-    border: 3px solid #2f4c80;
+    border: 3px solid crimson;
 }
 .works .carousel .card:hover img{
     border-color: #645CAA;
@@ -522,7 +522,7 @@ section .title::after{
     margin-left: 35px;
 }
 .contact .contact-content .row i{
-    color: #2f4c80;
+    color: crimson;
     font-size: 25px;
 }
 .contact .contact-content .row .info .head{
@@ -577,8 +577,8 @@ section .title::after{
     border-radius: 10px;
     width: 100%;
     height: 35px;
-    border: 2px solid #2f4c80;
-    background: #2f4c80;
+    border: 2px solid crimson;
+    background: crimson;
     color: white;
     font-size: 20px;
     font-weight: 500;
@@ -586,7 +586,7 @@ section .title::after{
     transition: all 0.3s ease;
 }
 .contact .right form .button button:hover{
-    color: #2f4c80;
+    color: crimson;
     background: none;
 }
 
@@ -605,7 +605,7 @@ section .title::after{
 	width: 50px; 
 	margin: 1rem 1rem 0 1rem; 
 	border-radius: 50%; 
-	background-color: #2f4c80; 
+	background-color: crimson; 
 } 
 
 .footer-links { 
