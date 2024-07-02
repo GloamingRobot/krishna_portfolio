@@ -27,7 +27,7 @@ html{
 }
 .navbar.sticky{
     padding: 6px 0;
-    background: #2670d1;
+    background: #0b65de;
 }
 .navbar .max-width{
     display: flex;
@@ -36,7 +36,7 @@ html{
 }
 .navbar .logo a{
     font-size: 35px;
-    color: crimson;
+    color: black;
     font-weight: 600;
 }
 .navbar .logo span{
@@ -80,7 +80,7 @@ html{
     position: fixed;
     height: 40px;
     width: 42px;
-    background: crimson;
+    background: rgb(18, 59, 147);
     right: 30px;
     bottom: 10px;
     text-align: center;
