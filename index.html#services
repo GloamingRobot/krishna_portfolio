@@ -1,0 +1,30 @@
+<!-- services section start -->
+
+    <section class="services" id="services">
+        <div class="max-width">
+            <h2 class="title">Skills</h2>
+            <div class="service-content">
+                <div class="card">
+                    <div class="box">
+                        <i class="fa fa-paint-brush"></i>
+                        <div class="text">Customer Satisfaction Improvement</div>
+                        <p>Implemented strategies that led to a significant increase in customer satisfaction scores, measured through feedback surveys or Net Promoter Scores.</p>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="box">
+                        <i class="fa fa-bar-chart"></i>
+                        <div class="text">Retention Rate Enhancement</div>
+                        <p>Successfully improved customer retention rates by implementing proactive customer success initiatives and personalized engagement strategies.</p>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="box">
+                        <i class="fa fa-code"></i>
+                        <div class="text">Team Development</div>
+                        <p>Developed and mentored a high-performing customer service and success team, resulting in improved service delivery and customer outcomes.</p>
+                    </div>
+                </div>               
+            </div>
+        </div>
+    </section>
